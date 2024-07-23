@@ -1,5 +1,5 @@
-
-#Ignore thumbnails created by Windowsing
+#new line 1
+#Ignore thumbnails created by Windowsul
 Thumbs.db
 #Ignore files built by Visual Studio
 *.obj
