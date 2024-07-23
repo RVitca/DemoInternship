@@ -1,6 +1,6 @@
 
 #Ignore thumbnails created by Windows
-Thumbs.db
+Thumbs.db new change
 #Ignore files built by Visual Studio
 *.obj
 *.exe
