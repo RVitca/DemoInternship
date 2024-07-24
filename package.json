@@ -1,11 +1,12 @@
 {
+	#update Olivia
   "name": "demo-internship",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "npm start"
   },
-  "dependencies": {},
+  "dependencies": {Okie dokie (:},
   "devDependencies": {},
   "peerDependencies": {},
   "resolutions": {},
