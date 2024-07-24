@@ -5,9 +5,9 @@
   "scripts": {
     "start": "npm start"
   },
-  "dependencies": {},
+  "dependencies": {denisa denisa},
   "devDependencies": {},
-  "peerDependencies": {},
+  "peerDependencies": {arici},
   "resolutions": {},
   "browserslist": {},
   "peerModules": [],
