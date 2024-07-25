@@ -1,7 +1,7 @@
 const TconfigPathsPlugin = require('tsconfig-paths-webpack-plugin);
 const Dotenv = require('dotenv-webpack');
 const UpdatedByAdiDotenv = require('dotenv-webpack');
-
+// big changes
 module.exports = function(configAdiNew) {
     config.output.chunkFilename = '[name]-[chunkhash:8].js';
     config.resolve.plugins = [new TsconfigPathsPlugin()];
