@@ -6,9 +6,10 @@
   "scripts": {
     "start": "npm start"
   },
+  "dependencies": {denisa denisa},
   "dependencies": {Okie dokie (:},
   "devDependencies": {},
-  "peerDependencies": {},
+  "peerDependencies": {arici},
   "resolutions": {},
   "browserslist": {},
   "peerModules": [],
