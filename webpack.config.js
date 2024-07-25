@@ -1,4 +1,5 @@
-const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin);
+const TconfigPathsPlugin = require('tsconfig-paths-webpack-plugin);
+const Dotenv = require('dotenv-webpack');
 const UpdatedByAdiDotenv = require('dotenv-webpack');
 
 module.exports = function(configAdiNew) {
