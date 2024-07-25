@@ -1,5 +1,6 @@
 This is a demo project to demonstrarate the power of GitExtensions
-
-In order to start the project run "npm start" alex
+123456
+In order to start the project run "npm start"
+In order to start the project run "npm start" andraa
 
 wow
