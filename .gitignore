@@ -1,9 +1,8 @@
 
 #Ignore thumbnails created by Windows
 Thumbs.db
-#Ignore files built by Visual Studio 
-*.obj heeeeeeeeeeeeeeeeeeeei
-*.obj
+#Ignore files built by Visual Studio am schimbat aici
+*.obj ceva benefic adaugat de vlad
 *.exe
 *.pdb
 *.user
